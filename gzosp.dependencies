@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "https://github.com/srfarias/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch": "caf-pie"
+  },
+  {
+    "repository": "rashedsahaji/Syberia_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch": "9.0"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  }
+]
